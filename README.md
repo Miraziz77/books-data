@@ -9,4 +9,4 @@ Simple JSON dataset of books for testing and development purposes.
 
 You can fetch the data directly:
 
-https://raw.githubusercontent.com/yourusername/books-data/main/books.json
+https://raw.githubusercontent.com/Miraziz77/books-data/refs/heads/main/books.json
